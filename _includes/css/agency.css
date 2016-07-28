@@ -10,6 +10,19 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+#overview {
+    color: #{{ site.data.template.color.sectionBG1 }};
+}
+
+#cfp {
+    color: #{{ site.data.template.color.sectionBG2 }};
+}
+
+#contact {
+    color: #{{ site.data.template.color.sectionBG1 }};
+}
+
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }
