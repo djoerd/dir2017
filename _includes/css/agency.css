@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-.fa-stack {
+.icon-primary {
     background-color: #555;
 }
 
