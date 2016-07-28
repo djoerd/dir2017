@@ -10,16 +10,12 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-#overview {
-    color: #{{ site.data.template.color.sectionBG1 }};
+#overview, #contact {
+    background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
 #cfp {
-    color: #{{ site.data.template.color.sectionBG2 }};
-}
-
-#contact {
-    color: #{{ site.data.template.color.sectionBG1 }};
+    background-color: #{{ site.data.template.color.sectionBG2 }};
 }
 
 
