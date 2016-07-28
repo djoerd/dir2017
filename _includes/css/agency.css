@@ -14,15 +14,11 @@ body {
     background-color: #555;
 }
 
-#overview {
+#overview, #sponsoring {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
-#myContact {
-    background-color: #{{ site.data.template.color.sectionBG1 }};
-}
-
-#cfp {
+#cfp, #organisation {
     background-color: #{{ site.data.template.color.sectionBG2 }};
 }
 
