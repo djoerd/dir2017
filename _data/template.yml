@@ -4,6 +4,8 @@ color:
   secondary: DA622E   
   secondary-dark: 43A3D3
   muted: 555555
+  sectionBG1: 999999
+  sectionBG2: BBBBBB
 
 # Font Families
 font:
