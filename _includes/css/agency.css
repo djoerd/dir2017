@@ -10,6 +10,10 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.fa-stack {
+    color: #555;
+}
+
 #overview {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
