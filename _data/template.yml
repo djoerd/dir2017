@@ -1,9 +1,9 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: F9BF31
-  secondary: DA622E   
+  secondary: FFBD44   
   secondary-dark: 43A3D3
-  muted: 0F0
+  muted: 555
   sectionBG1: ECECEC
   sectionBG2: DEDEDE
 
