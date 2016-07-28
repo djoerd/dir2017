@@ -10,7 +10,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-#overview, #contact {
+#overview {
+    background-color: #{{ site.data.template.color.sectionBG1 }};
+}
+
+#contact {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
