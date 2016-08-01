@@ -10,6 +10,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+ul .center-left {
+    display:inline-block;
+    text-align:left;
+}
+
 .icon-primary {
     background-color: #555;
 }
