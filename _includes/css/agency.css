@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-ul .center-left {
+.center-left {
     display:inline-block;
     text-align:left;
 }
