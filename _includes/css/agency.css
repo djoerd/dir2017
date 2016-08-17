@@ -27,6 +27,10 @@ body {
     background-color: #{{ site.data.template.color.sectionBG2 }};
 }
 
+#sponsors {
+    color: #43a3d2;
+}
+
 
 .text-muted {
     #{{ site.data.template.color.muted }};
