@@ -28,7 +28,9 @@ body {
 }
 
 #sponsors {
-    color: #43a3d2;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 
