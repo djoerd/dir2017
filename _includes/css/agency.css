@@ -90,14 +90,6 @@ h6 {
     margin: 0 auto;
 }
 
-.bg-light-gray {
-    background-color: #44474c;
-}
-
-.bg-darkest-gray {
-    background-color: #333438;
-}
-
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;
