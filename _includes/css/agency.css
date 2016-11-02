@@ -4,6 +4,27 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.extraCellSpace {
+    padding-left:25px;
+}
+.importantTable {
+    font-size: 120%;
+}
+
+.timesCol {
+    width: 200px;
+}
+
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
