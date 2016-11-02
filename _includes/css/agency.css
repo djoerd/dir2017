@@ -49,11 +49,11 @@ body {
     background-color: #555;
 }
 
-#overview, #program {
+#overview, #program, #organisation {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
-#cfp, #organisation {
+#cfp, #registration {
     background-color: #{{ site.data.template.color.sectionBG2 }};
 }
 
