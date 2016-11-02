@@ -24,7 +24,7 @@ body {
     background-color: #555;
 }
 
-#overview, #sponsoring {
+#overview, #program {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
