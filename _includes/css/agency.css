@@ -24,6 +24,10 @@ th, td {
     width: 200px;
 }
 
+.programType {
+    color: white;
+}
+
 
 body {
     overflow-x: hidden;
