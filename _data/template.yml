@@ -4,8 +4,8 @@ color:
   secondary: D77806 #FFBD44   
   secondary-dark: 43A3D3
   muted: 555
-  sectionBG1: ECECEC
-  sectionBG2: DEDEDE
+  sectionBG1: 44474c #ECECEC
+  sectionBG2: 333438 #DEDEDE
 
 # Font Families
 font:
