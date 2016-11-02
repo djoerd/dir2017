@@ -24,6 +24,10 @@ th, td {
     width: 200px;
 }
 
+.authors {
+    color: #9DD7EB;
+}
+
 .programType {
     color: white;
 }
