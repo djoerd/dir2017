@@ -5,7 +5,7 @@
  */
 
 table, th, td {
-    border: 1px solid black;
+    border: 2px solid white;
 }
 
 th, td {
@@ -14,7 +14,7 @@ th, td {
 }
 
 .extraCellSpace {
-    padding-left:25px;
+    padding-left:35px;
 }
 .importantTable {
     font-size: 120%;
