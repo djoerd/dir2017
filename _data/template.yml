@@ -1,11 +1,11 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: F99E31  #F9BF31
-  secondary: D77806 #FFBD44   
-  secondary-dark: 43A3D3
+  primary: EEEEEE
+  secondary: D77806
+  secondary-dark: 13A3D3
   muted: 555
-  sectionBG1: 44474c #ECECEC
-  sectionBG2: 333438 #DEDEDE
+  sectionBG1: 24474c #ECECEC
+  sectionBG2: 133438 #DEDEDE
 
 # Font Families
 font:

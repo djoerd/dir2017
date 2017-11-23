@@ -234,7 +234,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -322,7 +321,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #EB1144;
     background-attachment: scroll;
     background-image: url('https://i1.wp.com/dir2017.nl/wp-content/uploads/2017/09/cropped-beeld-en-geluid5.jpg?w=1575');
     background-position: center center;
@@ -334,16 +333,15 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 500px;
     padding-bottom: 50px;
 }
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
-    font-style: italic;
-    line-height: 22px;
+    font-size: 14px;
+    line-height: 14px;
 }
 
 header .intro-text .intro-heading {
@@ -357,16 +355,15 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 500px;
         padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        font-size: 22px;
+        line-height: 22px;
     }
 
     header .intro-text .intro-heading {
