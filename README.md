@@ -1,1 +1,1 @@
-Website of the Dutch-Belgian Information Retrieval Workshop 2016.
+Website of the Dutch-Belgian Information Retrieval Workshop 2017.
